@@ -1,0 +1,7 @@
+# STOCK-PRICE-PREDICTION-FOR-NSE-USING-DEEP-LEARNING-MODELS
+Financial time series analysis and prediction have become an important area of re- search in today's world. Designing and pricing securities, construction of portfolios and other risk management strategies depends on the prediction of financial time se- ries. A financial time series often involve large dataset with complex interaction among themselves. A proper analysis of this data will give the investor better gains, but the existing methodologies focus on linear models (AR, MA, ARMA, ARIMA) and non- linear models (ARCH, GARCH, TAR). These models are not capable of identifying the complex interactions and latent dynamics existing within the data. Applying Deep learning methods to these types of data will give more accurate results than the existing methods. Deep learning architectures can identify the hidden patterns in the data and is also capable of exploiting the interactions existing within the data, which is, at least not possible by the existing financial models. The proposed work uses four different deep learning architectures (RNN, LSTM, CNN, and MLP) for predicting the minute wise stock price for NSE listed companies and compares the performance of the mod- els. The proposed method uses a sliding window based approach for predicting future values on a short-term basis. The performance of the models was quantified using error percentage.
+
+
+
+Please fllow the link for downloading the conference paper
+http://ieeexplore.ieee.org/document/8126078/?reload=true&part=1
